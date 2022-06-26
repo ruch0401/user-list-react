@@ -8,7 +8,7 @@ You can try hands-on on the project [here](https://user-list-react.herokuapp.com
 
 ### Working Video
 
-![Expense-Tracker List Gif](resources/expense-tracker-react.gif)
+![Expense-Tracker List Gif](resources/user-list-renderer-react.gif)
 
 ### Features
 
