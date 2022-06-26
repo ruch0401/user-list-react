@@ -4,7 +4,7 @@ Visit [here](/src) to view the source code
 
 ### Hands On!
 
-You can try hands-on on the project [here](https://user-list-react.herokuapp.com/)
+You can try hands-on on the project [here](https://basic-user-list-renderer-react.herokuapp.com/)
 
 ### Working Video
 
